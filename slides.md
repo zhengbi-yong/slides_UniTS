@@ -27,7 +27,7 @@ mdc: true
 简要介绍时间序列领域的一个大一统模型
 
 <div @click="$slidev.nav.next" class="mt-12 py-1" hover:bg="white op-10">
-  进入正题 <carbon:arrow-right />
+  开始 <carbon:arrow-right />
 </div>
 
 <div class="abs-br m-6 text-xl">
